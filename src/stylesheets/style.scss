@@ -1,1 +1,15 @@
 @import "normalize";
+@import "../../bower_components/bulma/bulma.sass";
+
+#camera {
+	width: 360px;
+	height: 270px;
+}
+
+.centering-inline {
+    text-align:center;
+}
+
+.large {
+    font-size: 1.5em;
+}
